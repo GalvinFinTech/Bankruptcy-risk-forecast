@@ -6,7 +6,7 @@ The goal of this project is to predict the bankruptcy risk of manufacturing ente
 
 ## Data Sources
 
-The dataset comprises financial metrics extracted from publicly audited financial statements of manufacturing enterprises listed on the Vietnamese stock exchange. Data spans from 2015 to the end of 2023, totaling 2,152 observations. These metrics serve as the basis for predicting financial risk and assessing the likelihood of bankruptcy.
+The dataset comprises financial metrics extracted from publicly audited financial statements of manufacturing enterprises listed on the Vietnamese stock exchange. Data spans from 2018 to the end of 2022, sourced from FiinPro. These metrics serve as the basis for predicting financial risk and assessing the likelihood of bankruptcy.
 
 ## Installation
 
